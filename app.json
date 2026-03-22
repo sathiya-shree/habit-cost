@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "HabitCost",
+    "slug": "habitcost",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.shree0302.habitcost"
+    },
+    "android": {
+      "package": "com.shree0302.habitcost",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#E8F8F0"
+      },
+      "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE"
+      ]
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "scheme": "habitcost",
+    "extra": {
+      "eas": {
+        "projectId": "0c3bf4b8-ac22-4587-9271-d4dd2c97ef89"
+      }
+    }
+  }
+}
