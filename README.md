@@ -1,5 +1,4 @@
 # 💸 HabitCost — React Native / Expo Mobile App
-### Final Year Project — Computer Science / Software Engineering
 
 > **See the real money & time cost of your daily habits.**  
 > Track coffee, Uber rides, subscriptions, takeout — and discover what you could do with that money instead.
@@ -10,8 +9,6 @@
 
 | Attribute | Choice |
 |-----------|--------|
-| **Theme** | Tropical — coral, teal, lime on mint-white |
-| **Font** | Poppins (300 → 800 weights) |
 | **Platform** | React Native / Expo (iOS + Android) |
 | **State** | React Context + AsyncStorage (offline-first) |
 | **Auth** | Local JWT-style sessions (swap with Firebase/Supabase for prod) |
@@ -220,22 +217,6 @@ eas update --branch production --message "Bug fixes"
 
 ---
 
-## 🎓 CV / Viva Talking Points
-
-| Topic | What to Say |
-|-------|-------------|
-| **Architecture** | Offline-first with AsyncStorage, Context API for global state, easy swap to REST backend |
-| **Auth** | Per-user data isolation, session persistence, password strength validation |
-| **Performance** | `useMemo` for computed stats, `Animated.spring` for fluid animations |
-| **UX** | Bottom sheet modals, haptic-style interactions, animated loading states |
-| **Charts** | Bar chart, pie chart, custom SVG progress bars — all data-driven |
-| **Notifications** | Native push via expo-notifications, user-controlled toggle |
-| **Design System** | Tropical theme with consistent tokens (COLORS, FONTS, SPACING, RADIUS, SHADOW) |
-| **Accessibility** | Large touch targets (44px min), high contrast text, readable font sizes |
-| **Scalability** | AuthContext can be replaced with any backend without changing UI code |
-
----
-
 ## 🌴 Screenshots
 
 | Splash | Dashboard | Analytics | Profile |
@@ -258,5 +239,3 @@ eas update --branch production --message "Bug fixes"
 MIT — Free to use for academic purposes.
 
 ---
-
-*Built with React Native + Expo · Tropical Design System · Final Year Project 2025*
