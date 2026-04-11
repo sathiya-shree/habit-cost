@@ -219,9 +219,10 @@ eas update --branch production --message "Bug fixes"
 
 ## 🌴 Screenshots
 
-| Splash | Dashboard | Analytics | Profile |
-|--------|-----------|-----------|---------|
-| Animated onboarding | Stats + habits | Charts & insights | Achievements + settings |
+| Login | Home | Dashboard | Analytics | Profile |  Add Habits |
+|------|----------|----------|---------|
+| ![](login-page.jpeg) | | ![](home-page.jpeg) | ![](dashboard.jpeg) | ![](analytics.jpeg) | ![](profile.jpeg) | ![](customise.jpeg) | ![](10year.jpeg) |
+
 
 ---
 
