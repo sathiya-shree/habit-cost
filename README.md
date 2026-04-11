@@ -217,8 +217,9 @@ eas update --branch production --message "Bug fixes"
 
 ## 🌴 Screenshots
 
-<table> <tr> <th>Login</th> <th>Home</th> <th>Dashboard</th> <th>Analytics</th> <th>Profile</th> <th>Add Habits</th> </tr> <tr> <td><img src="login-page.jpeg" width="140"/></td> <td><img src="home-page.jpeg" width="140"/></td> <td><img src="dashboard.jpeg" width="140"/></td> <td><img src="analytics.jpeg" width="140"/></td> <td><img src="profile.jpeg" width="140"/></td> <td><img src="customise.jpeg" width="140"/></td> </tr> <tr> <td align="center">Login</td> <td align="center">Home</td> <td align="center">Dashboard</td> <td align="center">Analytics</td> <td align="center">Profile</td> <td align="center">Add Habit</td> </tr> </table>
----
+| Login | Home | Dashboard | Analytics | Profile | Add Habits |
+|------|------|----------|-----------|---------|-------------|
+| ![](login-page.jpeg) | ![](home-page.jpeg) | ![](dashboard.jpeg) | ![](analytics.jpeg) | ![](profile.jpeg) | ![](customise.jpeg) |
 
 ## 👨‍💻 Developer Notes
 
