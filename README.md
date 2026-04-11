@@ -219,10 +219,9 @@ eas update --branch production --message "Bug fixes"
 
 ## 🌴 Screenshots
 
-| Login | Home | Dashboard | Analytics | Profile |  Add Habits |
-|------|----------|----------|---------|
-| ![](login-page.jpeg) | | ![](home-page.jpeg) | ![](dashboard.jpeg) | ![](analytics.jpeg) | ![](profile.jpeg) | ![](customise.jpeg) | ![](10year.jpeg) |
-
+| Login | Home | Dashboard | Analytics | Profile | Add Habits | Customise | 10 Year |
+|------|------|----------|-----------|---------|-------------|-----------|---------|
+| ![](login-page.jpeg) | ![](home-page.jpeg) | ![](dashboard.jpeg) | ![](analytics.jpeg) | ![](profile.jpeg) | ![](customise.jpeg) | ![](customise.jpeg) | ![](10year.jpeg) |
 
 ---
 
